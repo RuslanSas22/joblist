@@ -19,6 +19,7 @@ function Pagination({ postsPerPage, totalPosts, paginate }) {
               >
                 {number}
               </button>
+              <div>Hello</div>
             </div>
           ))}
         </div>
